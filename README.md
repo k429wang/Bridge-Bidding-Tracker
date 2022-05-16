@@ -1,6 +1,6 @@
 # Bridge-Bidding-Tracker
 
-This is an ongoing Java project that helps bridge players track bidding systems/conventions. 
+This is an **ongoing** Java project that helps bridge players track bidding systems/conventions. 
 
 Bridge is a fun and interactive card game played by 4 players using a standard 52-card deck. One of the mechanics of Brdige is an auction, or a bidding phase, where players take turns bidding how many tricks they believe they can take with their cards. 
 
